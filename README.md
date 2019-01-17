@@ -2,7 +2,8 @@
 Check dashlane password data against pwned password API
 
 For use with https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/
-API at: https://haveibeenpwned.com/API/v2#PwnedPasswords
+
+API available at: https://haveibeenpwned.com/API/v2#PwnedPasswords
 
 Dashlane password manager does not offer integration with Troy's pwnedpassword API. This bit of code 
 allows users to check their own passwords against the API using python.
