@@ -1,0 +1,4 @@
+dashlane_file: ""                 # update this with your own dashlane json export
+
+test_password_fail: "password"                        # this password should cause the API to fail
+test_password_pass: "horsebatterycarstaplercoolness"  # this password will cause API to pass as of 1/17/2019
